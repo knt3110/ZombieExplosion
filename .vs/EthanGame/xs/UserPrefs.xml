@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4DB61E9A-A690-451A-5DDD-46D1D39F3E35}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ZombieExplosion/Scripts/KillTarget.cs">
+    <Files>
+      <File FileName="Assets/ZombieExplosion/Scripts/KillTarget.cs" Line="7" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
